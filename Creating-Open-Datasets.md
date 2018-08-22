@@ -20,3 +20,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3a) sort/realignment (verify data matrix has a consistent order)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3b) verify quality (reproduce plots)
+
+**4)** archiving step
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4a) HDFView (https://www.hdfgroup.org/) for manipulating databases (HDF5 Format).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4b) Open Science Framework (https://osf.io) or Github (https://www.github.com) for storage and providing stable URL.
