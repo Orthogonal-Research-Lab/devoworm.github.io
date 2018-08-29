@@ -10,7 +10,7 @@ DevoWorm is currently divided into three loosely-knit interest areas: developmen
 
 **Developmental Dynamics** currently involves using secondary data collected from embryos along with bioinformatic and data science techniques to answer questions regarding the process of early embryogenesis and the timing of later morphogenesis. To address these problems, we have used number of innovative approaches. 
 
-**Cybernetics and Digital Morphogenesis** has involved using platforms such as Morphozoic (Cellular Automata) or CompuCell3D (Cellular Potts Model) to better understand physical interactions during embryogenesis and morphogenesis. We have also explored the use of cybernetic models and concepts to better understand the general process of embryogenesis.
+**Cybernetics and Digital Morphogenesis** has involved using platforms such as Morphozoic and theoretical approaches such as Multicell Systems and Braitenberg Vehicles to better understand physical interactions during embryogenesis and morphogenesis. We have also explored the use of cybernetic models and concepts to better understand the general process of embryogenesis.
 
 **Reproduction and Developmental Plasticity** involves utilizing an evo-devo approach to understand *Caenorhabditis elegans* more generally. Our existing datasets and papers include a focus on larval development and life-history processes. This area of the project also features primary empirical data, based on formal experimental design.
 
@@ -23,6 +23,8 @@ DD                                               | [Embryo Networks and Developm
 DD                                               | Time-series of Terminal Differentiation
 Cybernetics and Digital Morphogenesis (C-DM)     | 
 C-DM                                             | [Morphozoic (Cellular Automata)](https://drive.google.com/open?id=0B4qKWcILZ0ddbzJoeUZsQ0lEZ1k)
+C-DM                                             | [Multicell Systems](https://github.com/Orthogonal-Research-Lab/origins-embryo/tree/master/Multicell%20Systems)
+C-DM                                             | [Braitenberg's Vehicles and Games](https://www.sciencedirect.com/science/article/pii/S0303264718302065?via%3Dihub)
 Reproduction and Developmental Plasticity (R-DP) | 
 R-DP                                             | [Experimental Evolution](http://rsos.royalsocietypublishing.org/content/3/11/160496)
 R-DP                                             | [Life-history Plasticity](http://www.biorxiv.org/content/early/2016/03/24/045609)
