@@ -42,7 +42,7 @@ Repo Name                                                                       
 [Datasets and Analysis](https://github.com/devoworm/DevoWorm)                   | Tools for Developmental Data Science
 [Morphozoic](https://github.com/devoworm/Morphozoic)                            | Morphozoic Models
 [Zebrafish Embryo](https://github.com/devoworm/zebrafish-embryo)                | Zebrafish Embryo
-[n-D Visualization](https://github.com/devoworm/nD-visualization)               | n-D Visualization
+[_n_-D Visualization](https://github.com/devoworm/nD-visualization)               | n-D Visualization
 [Drosophila Imaginal Disc Segmentation](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)|Drosophila Imaginal Disc Segmentation
 [Drosophila Embryo (fused cell centroids)](https://github.com/devoworm/Drosophila-embryo-fused-cell-centroids)|Drosophila Embryo (fused cell centroids)
 
