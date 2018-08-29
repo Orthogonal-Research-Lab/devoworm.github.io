@@ -30,8 +30,8 @@ R-DP                                             | [Life-history Plasticity](htt
 
 Repo Name                                                                       | Description               
 ---                                                                             | ---                       
-[Embryo Segmentation](https://github.com/devoworm/EmbryoSegmentation)           | Embryo Segmentation Software
-[Google Summer of Code 2018](https://github.com/devoworm/GSoC-2018)             | GSoC Activities for 2018
+[Embryo Segmentation](https://github.com/devoworm/EmbryoSegmentation)           | Embryo Segmentation Software (GSoC 2017)
+[Devlopmental XML and Networks](https://github.com/devoworm/GSoC-2018)          | Devlopmental XML and Networks (GSoC 2018)
 [CC3D](https://github.com/devoworm/CC3D-local)                                  | CompuCell 3D Models
 [Embryogenetic Connectome](https://github.com/devoworm/embryogenetic-connectome)| Embryogenetic Connectome Analysis
 [Assorted Notebooks](https://github.com/devoworm/devoworm.github.io)            | Project-related Jupyter Notebooks
