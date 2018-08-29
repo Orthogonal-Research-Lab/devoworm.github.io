@@ -30,10 +30,16 @@ R-DP                                             | [Life-history Plasticity](htt
 
 Repo Name                                                                       | Description               
 ---                                                                             | ---                       
-[Google Summer of Code 2017](https://github.com/devoworm/GSoC-2017)             | GSoC Activities for 2017
+[Embryo Segmentation](https://github.com/devoworm/EmbryoSegmentation)           | Embryo Segmentation Software
+[Google Summer of Code 2018](https://github.com/devoworm/GSoC-2018)             | GSoC Activities for 2018
 [CC3D](https://github.com/devoworm/CC3D-local)                                  | CompuCell 3D Models
 [Embryogenetic Connectome](https://github.com/devoworm/embryogenetic-connectome)| Embryogenetic Connectome Analysis
 [Assorted Notebooks](https://github.com/devoworm/devoworm.github.io)            | Project-related Jupyter Notebooks
 [Graphical Visualization](https://github.com/devoworm/Graph-Code)               | Code for Graph Creation
 [Datasets and Analysis](https://github.com/devoworm/DevoWorm)                   | Tools for Developmental Data Science
 [Morphozoic](https://github.com/devoworm/Morphozoic)                            | Morphozoic Models
+[Zebrafish Embryo](https://github.com/devoworm/zebrafish-embryo)                | Zebrafish Embryo
+[n-D Visualization](https://github.com/devoworm/nD-visualization)               | n-D Visualization
+[Drosophila Imaginal Disc Segmentation](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)|Drosophila Imaginal Disc Segmentation
+[Drosophila Embryo (fused cell centroids)](https://github.com/devoworm/Drosophila-embryo-fused-cell-centroids)|Drosophila Embryo (fused cell centroids)
+
