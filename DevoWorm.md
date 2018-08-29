@@ -16,14 +16,15 @@ DevoWorm is currently divided into three loosely-knit interest areas: developmen
 
 Objective                                        | Examples                    
 ---                                              | ---
-Developmental Dynamics (DD)                      | [Comparative Quantitative Embryogenesis](http://www.mdpi.com/2079-7737/5/3/33)
+Developmental Dynamics (DD)                      | 
+DD                                               | [Comparative Quantitative Embryogenesis](http://www.mdpi.com/2079-7737/5/3/33)
 DD                                               | [Differentiation Trees and Maps](http://www.biorxiv.org/content/early/2016/07/07/062539)
 DD                                               | [Embryo Networks and Developmental Connectomes](https://doi.org/10.1101/146035)
 DD                                               | Time-series of Terminal Differentiation
-Cybernetics and Digital Morphogenesis (C-DM)     | [Morphozoic (Cellular Automata)](https://drive.google.com/open?id=0B4qKWcILZ0ddbzJoeUZsQ0lEZ1k)
-C-DM                                             | [Cybernetic Embryo](https://www.academia.edu/33002276/Origins_of_the_Embryo_self-organization_through_cybernetic_regulation)
-C-DM                                             | CompuCell 3D
-Reproduction and Developmental Plasticity (R-DP) | [Experimental Evolution](http://rsos.royalsocietypublishing.org/content/3/11/160496)
+Cybernetics and Digital Morphogenesis (C-DM)     | 
+C-DM                                             | [Morphozoic (Cellular Automata)](https://drive.google.com/open?id=0B4qKWcILZ0ddbzJoeUZsQ0lEZ1k)
+Reproduction and Developmental Plasticity (R-DP) | 
+R-DP                                             | [Experimental Evolution](http://rsos.royalsocietypublishing.org/content/3/11/160496)
 R-DP                                             | [Life-history Plasticity](http://www.biorxiv.org/content/early/2016/03/24/045609)
 
 ## Repos in DevoWorm Github
