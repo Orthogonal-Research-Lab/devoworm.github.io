@@ -1,4 +1,4 @@
-Notes for using FlashBack (FB) Express (screen capture and upload videos manually to YouTube):
+Notes for using FlashBack (FB) (screen capture and upload videos manually to YouTube), https://www.flashbackrecorder.com/:
 
 * install software (Win32 or Win 64), install both FBRecord and FBPlayer.
 
