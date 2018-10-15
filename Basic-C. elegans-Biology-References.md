@@ -32,9 +32,4 @@
 
 **Other datasets**
 
-DevoZoo: [link](https://devoworm.github.io/devozoo.htm)
-
-
-```python
-
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevoZoo (multiple species and artificial life): [link](https://devoworm.github.io/devozoo.htm)
