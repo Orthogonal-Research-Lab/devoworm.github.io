@@ -17,6 +17,9 @@ We can define our broadcast by establishing a series of scenes, which are in tur
 
 * Don't forget an audio feed. To select the microphone, go to Tools >> Learning >> Settings >> Audio tab >> Microphone (--). Click on Apply button.
 
+**Adding in capture from running windows**
+You can also add in specific windows representing running processes (e.g. Firefox, Slack). To do this, click on the "sources" button at the lower left (at the bottom of the scene composition dialogue box). Choose Screen Capture >> Window Capture, and then choose your windows of choice. You will want to add one Scene per window. 
+
 **Now, let's broadcast!**
 
 To set up a new output, select Outputs >> New Output. You can select from live streams such as Facebook, YouTube, Twitter, and Twitch. YouTube and Facebook are known to work pretty seamlessly, and can be configured to your own account. Go through the details for each option. 
