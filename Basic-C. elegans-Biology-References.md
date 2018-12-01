@@ -30,6 +30,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process of embryogenesis (multiple species): [link](https://drive.google.com/open?id=0B4qKWcILZ0ddZnVXWWF4bm1malE)
 
-**Other datasets**
+**Other datasets:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevoZoo (multiple species and artificial life): [link](https://devoworm.github.io/devozoo.htm)
+
+**Jupyter Notebooks:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevoZoo (multiple species and artificial life): [link](https://devoworm.github.io/devozoo.htm)
