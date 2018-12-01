@@ -36,4 +36,4 @@
 
 **Jupyter Notebooks:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevoZoo (multiple species and artificial life): [link](https://devoworm.github.io/devozoo.htm)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevoZoo (multiple species and artificial life): [link](https://devoworm.github.io/)
