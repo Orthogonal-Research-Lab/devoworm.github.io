@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5)** Discussion of the Embryonic Cell Lineage: [link](http://www.wormatlas.org/ver1/Sulstonemblin_1983/results.html)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**6)** Classic Papers from the Hobert Lab: [link](http://hobertlab.org/classic-papers/)
+
 **Papers:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1)** Antoshechkin, I. and Sternberg, P. W. (2007). The versatile worm: genetic and genomic resources for _Caenorhabditis
