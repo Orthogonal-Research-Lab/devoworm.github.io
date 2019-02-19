@@ -7,11 +7,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**3)** WormBook: [link](http://www.wormbook.org/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4)** VirtualWorm model: [link](http://caltech.wormbase.org/virtualworm/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**4)** Glossary of terms (from Wormbook): [link](http://www.wormatlas.org/glossary/aglossary.htm)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5)** Discussion of the Embryonic Cell Lineage: [link](http://www.wormatlas.org/ver1/Sulstonemblin_1983/results.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5)** VirtualWorm model: [link](http://caltech.wormbase.org/virtualworm/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**6)** Classic Papers from the Hobert Lab: [link](http://hobertlab.org/classic-papers/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**6)** Discussion of the Embryonic Cell Lineage: [link](http://www.wormatlas.org/ver1/Sulstonemblin_1983/results.html)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**7)** Classic Papers from the Hobert Lab: [link](http://hobertlab.org/classic-papers/)
 
 **Papers:**
 
