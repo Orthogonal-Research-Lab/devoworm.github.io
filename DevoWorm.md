@@ -1,8 +1,7 @@
-
 # DevoWorm
 
-The DevoWorm website is located at [devoworm.weebly.com](http://devoworm.weebly.com/). The website features links to 
-educational, academic, media-related and collaborative opportunities associated with the project. DevoWorm is affiliated with the [OpenWorm Foundation](http://www.openworm.org/) and the [Orthogonal Research Laboratory](http://orthogonal-research.weebly.com/). We engage in Open Science, an encourage the use of Jupyter Notebooks, short video descriptions of research, and demos.
+The DevoWorm group website is located at [devoworm.weebly.com](http://devoworm.weebly.com/). The website features links to 
+educational, academic, media-related and collaborative opportunities associated with the project. The DevoZoo is located at [devoworm.github.io](http://devoworm.github.io), and features content relevant to community education and engagement. DevoWorm is affiliated with the [OpenWorm Foundation](http://www.openworm.org/) and the [Orthogonal Research Laboratory](http://orthogonal-research.weebly.com/). We engage in Open Science, an encourage the use of Jupyter Notebooks, short video descriptions of research, and demos.
 
 ## Roadmap
 
