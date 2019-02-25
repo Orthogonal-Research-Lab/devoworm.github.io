@@ -21,7 +21,7 @@ DD                                               | [Differentiation Trees and Ma
 DD                                               | [Embryo Networks and Developmental Connectomes](https://doi.org/10.1101/146035)
 DD                                               | [Time-series of Terminal Differentiation](https://www.biorxiv.org/content/early/2018/03/14/282004)
 Cybernetics and Digital Morphogenesis (C-DM)     | 
-C-DM                                             | [Morphozoic (Cellular Automata)](https://drive.google.com/open?id=0B4qKWcILZ0ddbzJoeUZsQ0lEZ1k)
+C-DM                                             | [Morphozoic (Cellular Automata)](https://www.researchgate.net/publication/311738597_Morphozoic_Cellular_Automata_with_Nested_Neighborhoods_as_a_Metamorphic_Representation_of_Morphogenesis)
 C-DM                                             | [Multicell Systems](https://github.com/Orthogonal-Research-Lab/origins-embryo/tree/master/Multicell%20Systems)
 C-DM                                             | [Braitenberg's Vehicles and Games](https://www.sciencedirect.com/science/article/pii/S0303264718302065?via%3Dihub)
 Reproduction and Developmental Plasticity (R-DP) | 
