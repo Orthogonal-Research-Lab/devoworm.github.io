@@ -15,6 +15,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**7)** Classic Papers from the Hobert Lab: [link](http://hobertlab.org/classic-papers/)
 
+**Microscopy Tutorials**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1)** Nikon MicroscopyU  [link](https://www.microscopyu.com/tutorials)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2)** Zeiss Microscopy Tutorials  [link](https://www.zeiss.com/microscopy/us/solutions/reference/all-tutorials.html)  
+
 **Papers:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1)** Antoshechkin, I. and Sternberg, P. W. (2007). The versatile worm: genetic and genomic resources for _Caenorhabditis
