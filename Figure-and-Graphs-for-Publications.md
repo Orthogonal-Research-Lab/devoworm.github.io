@@ -19,4 +19,4 @@ Try to color-blind proof figures whenever possible. For more information, please
 
 Regarding the assembly of bibliographies: try to import references into an EndNote, Mendeley, or Zotero library. Dr. Richard Gordon has a set of macros for dynamic reference citation in manuscripts and other documents where references are numbered. 
 
-Please also take a look at some of the tutorials in the Reproducibility for Everybody
+Please also take a look at some of the tutorials associated with the [Reproducibility for Everybody](https://orthogonal-research-lab.github.io/reproducibility-website/) research group, particularly [Dr. Tracey Weissgerber's materials on making better graphs](https://drive.google.com/drive/u/1/folders/1-uaQ0lQT86FEgbXvk3W_WsmxAXK6MfgM), [Dr. Diep Ganguly's materials on Bioinformatics](https://docs.google.com/presentation/d/1LmkXr3SALatzwHqJ3SaZne8Mkq-f2DW_lA5xvHpE7T8/edit), and [Dr. Bradly Alicea's materials on explainable methods](https://docs.google.com/presentation/d/1yclB71zI4EAD4BPr-HjMAuTHpyOZXCLlnzEesFI_EEU/edit).
