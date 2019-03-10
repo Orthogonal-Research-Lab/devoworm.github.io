@@ -9,7 +9,7 @@
 
 2) Once installed, open the Navigator. One of the application in the "Home" tab should be Jupyter Notebooks. Click on "launch".
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) upon launch, a CLI pop-up window should appear. If a browser window [does not open to the proper location](http://localhost:8888/tree"), navigate manually to "localhost:8888/tree". &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will be your local host (located on your own machine) for authoring notebooks.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) upon launch, a CLI pop-up window should appear. If a browser window [does not open to the proper location](http://localhost:8888/tree"), navigate manually to "localhost:8888/tree". This will be your local host (located on your own machine) for authoring notebooks.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) to create a notebook, select "New" and then select "Python" from the dropdown. Any kernel named "Python" is fine.
 
@@ -17,8 +17,7 @@
 
 3) The fundamental unit of the Notebook are cells (windows labelled "In []:"). These cells accept input such as code, text, and Markdown. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) enter the input into the cell, make sure the selected input for that cell is set to either code or markdown 
-(dropdown in the top menu), and then compile the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cell (click on the forward arrow icon in the top menu).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) enter the input into the cell, make sure the selected input for that cell is set to either code or markdown (dropdown in the top menu), and then compile the cell (click on the forward arrow icon in the top menu).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) a [tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) for creating and modifying notebooks can be found at [Datacamp.com](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook).
 
