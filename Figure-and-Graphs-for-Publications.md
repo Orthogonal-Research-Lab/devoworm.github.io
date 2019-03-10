@@ -18,3 +18,5 @@ Try to color-blind proof figures whenever possible. For more information, please
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) [Color Blindness Simulator](http://www.color-blindness.com/coblis-color-blindness-simulator/)
 
 Regarding the assembly of bibliographies: try to import references into an EndNote, Mendeley, or Zotero library. Dr. Richard Gordon has a set of macros for dynamic reference citation in manuscripts and other documents where references are numbered. 
+
+Please also take a look at some of the tutorials in the Reproducibility for Everybody
