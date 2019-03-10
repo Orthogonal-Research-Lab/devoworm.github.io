@@ -23,6 +23,8 @@
 
 **4)** archiving step
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4a) HDFView (https://www.hdfgroup.org/) for manipulating databases (HDF5 Format).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4b) HDFView (https://www.hdfgroup.org/) for manipulating databases (HDF5 Format).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4b) Open Science Framework (https://osf.io) or Github (https://www.github.com) for storage and providing stable URL.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4b) Open Science Framework (https://osf.io) or Github (https://www.github.com) for storage and providing stable URL. For Github repo storage, data can be converted to csv (comma-delimited) format, which will render in the form of a table in the repo.
+
+
