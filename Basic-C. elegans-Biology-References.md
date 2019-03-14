@@ -36,14 +36,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**5)** Sulston, J.E., Schierenberg, E., White, J.G., and Thomson, J.N. 1983. The embryonic cell lineage of the nematode
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Caenorhabditis elegans_. Developmental Biology, 100(1), 64-119.
 
-**Videos:**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Process of embryogenesis (multiple species): [link](https://drive.google.com/open?id=0B4qKWcILZ0ddZnVXWWF4bm1malE)
-
-**Other datasets:**
+**Raw Video and Secondary Datasets:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevoZoo (multiple species and artificial life): [link](https://devoworm.github.io/devozoo.htm)
 
 **Jupyter Notebooks:**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevoZoo (multiple species and artificial life): [link](https://devoworm.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevoNotes (various topics): [link](https://devoworm.github.io/devo-notes.htm)
