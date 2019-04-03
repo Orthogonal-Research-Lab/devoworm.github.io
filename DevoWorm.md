@@ -35,7 +35,7 @@ Repo Name                                                                       
 ---                                                                             | ---                       
 [Embryo Segmentation](https://github.com/devoworm/EmbryoSegmentation)           | Embryo Segmentation Software (GSoC 2017)
 [Devlopmental XML and Networks](https://github.com/devoworm/GSoC-2018)          | Developmental XML and Networks (GSoC 2018)
-[Semantic Phenotypes]()                                                         | Semantic Phenotypes (GSoC 2019)
+[Semantic Phenotypes](https://github.com/devoworm/GSOC-2019)                    | Semantic Phenotypes (GSoC 2019)
 [CC3D](https://github.com/devoworm/CC3D-local)                                  | CompuCell 3D Models
 [Embryogenetic Connectome](https://github.com/devoworm/embryogenetic-connectome)| Embryogenetic Connectome Analysis
 [Assorted Notebooks](https://github.com/devoworm/devoworm.github.io)            | Project-related Jupyter Notebooks
