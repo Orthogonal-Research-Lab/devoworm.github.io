@@ -27,21 +27,26 @@ C-DM                                             | [Braitenberg's Vehicles and G
 Reproduction and Developmental Plasticity (R-DP) | 
 R-DP                                             | [Experimental Evolution](http://rsos.royalsocietypublishing.org/content/3/11/160496)
 R-DP                                             | [Life-history Plasticity](http://www.biorxiv.org/content/early/2016/03/24/045609)
+R-DP                                             | [Dynamical Heterochrony](https://github.com/Orthogonal-Research-Lab/Developmental-Incongruities-and-Heterochrony/blob/master/Developmental-Incongruity-Heterochrony.md)
 
 ## Repos in DevoWorm Github
 
 Repo Name                                                                       | Description               
 ---                                                                             | ---                       
 [Embryo Segmentation](https://github.com/devoworm/EmbryoSegmentation)           | Embryo Segmentation Software (GSoC 2017)
-[Devlopmental XML and Networks](https://github.com/devoworm/GSoC-2018)          | Devlopmental XML and Networks (GSoC 2018)
+[Devlopmental XML and Networks](https://github.com/devoworm/GSoC-2018)          | Developmental XML and Networks (GSoC 2018)
+[Semantic Phenotypes]()                                                         | Semantic Phenotypes (GSoC 2019)
 [CC3D](https://github.com/devoworm/CC3D-local)                                  | CompuCell 3D Models
 [Embryogenetic Connectome](https://github.com/devoworm/embryogenetic-connectome)| Embryogenetic Connectome Analysis
 [Assorted Notebooks](https://github.com/devoworm/devoworm.github.io)            | Project-related Jupyter Notebooks
 [Graphical Visualization](https://github.com/devoworm/Graph-Code)               | Code for Graph Creation
 [Datasets and Analysis](https://github.com/devoworm/DevoWorm)                   | Tools for Developmental Data Science
 [Morphozoic](https://github.com/devoworm/Morphozoic)                            | Morphozoic Models
+[Analysis of Developmental Trees (AoDT)](https://github.com/devoworm/AoDT)      | Analysis of Developmental Trees (AoDT)
+[OW-DW Education](https://github.com/devoworm/OW-DW-Education)                  | OpenWorm-DevoWorm Education (Curriculum-building)
+[TSMs](https://github.com/devoworm/Triangular-State-Machines-TSM)               | Triangular State Machine (TSMs)
 [Zebrafish Embryo](https://github.com/devoworm/zebrafish-embryo)                | Zebrafish Embryo
-[_n_-D Visualization](https://github.com/devoworm/nD-visualization)               | n-D Visualization
+[_n_-D Visualization](https://github.com/devoworm/nD-visualization)             | n-D Visualization
 [Drosophila Imaginal Disc Segmentation](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)|Drosophila Imaginal Disc Segmentation
 [Drosophila Embryo (fused cell centroids)](https://github.com/devoworm/Drosophila-embryo-fused-cell-centroids)|Drosophila Embryo (fused cell centroids)
 
