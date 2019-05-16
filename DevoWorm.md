@@ -49,4 +49,5 @@ Repo Name                                                                       
 [_n_-D Visualization](https://github.com/devoworm/nD-visualization)             | n-D Visualization
 [Drosophila Imaginal Disc Segmentation](https://github.com/devoworm/Drosophila-imaginal-disc-segmentation)|Drosophila Imaginal Disc Segmentation
 [Drosophila Embryo (fused cell centroids)](https://github.com/devoworm/Drosophila-embryo-fused-cell-centroids)|Drosophila Embryo (fused cell centroids)
+[Digital Bacillaria](https://github.com/devoworm/Digital-Bacillaria)            | Quantifying Movies of Bacillaria (Diatom)
 
